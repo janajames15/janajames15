@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I’m Jana James
 
-<!--
-**janajames15/janajames15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Doctorate-level Health Data Analyst  
+💡 Passionate about Public Health, Data Science, and R Programming  
+📂 Portfolio: [janajamesportfolio.com](https://janajamesportfolio.com)  
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/jana-james-b0422663/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 I’m Currently Working On
+- **Impact of Social Determinants of Health on Prenatal Care Utilization Among Pregnant Women in Georgia**
+
+---
+
+### 🔬 Projects
+- 🩺 **[Coronary Heart Disease Study](https://github.com/janajames15/health-data-portfolio)** — BRFSS 2021 data, logistic regression, and data visualization in R
+
+---
+
+### 🛠️ Tools & Languages  
+`R` • `RStudio` • `ggplot2` • `tidyverse` • `dplyr` • `GitHub`
